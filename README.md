@@ -1,21 +1,20 @@
-# Code Refactor
+# Code Refactoring Project
 
-## Description
+## Overview
 
-I want to make the code given to me as clean as possible, and made to adhere to accessibility standards.
-I replaced many of the headings and such with terms that were more descriptive, I learned that there are 
-many more options in html than I already thought.
+This project is focused on enhancing the readability and accessibility of the codebase. We've replaced generic HTML tags with more descriptive ones, adhering to best practices for web accessibility. This process has been a learning journey, revealing the vast array of options HTML provides.
 
-## Installation
+## Getting Started
 
-No instalation needed
+This is a web-based application and does not require any installation. 
 
-## Usage
+## How to Use
 
-A link to the website can be found here
+You can access the refactored website via the provided link in the repository.
 
-## Credits
+## Acknowledgements
 
-https://www.w3schools.com/html/default.asp
+We would like to express our gratitude to the following resources that have been instrumental in the completion of this project:
 
-https://courses.bootcampspot.com/
+- [W3Schools HTML Guide](https://www.w3schools.com/html/default.asp)
+- [Bootcamp Spot Courses](https://courses.bootcampspot.com/)
